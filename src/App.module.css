@@ -73,3 +73,12 @@ transition: all ease .3s;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
 }
+
+.container .rightSide .rightBig{
+    flex: 1;
+    display: flex;
+}
+.yourImc{
+    font-size: 17px;
+    margin: 10px 0 50px 0;
+}
